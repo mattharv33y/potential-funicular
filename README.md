@@ -1,3 +1,3 @@
 # potential-funicular
-Matthew Harvey, mth287
-Gareth Carew,
+Matthew Harvey - mth287,
+Gareth Carew - ,
